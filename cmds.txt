@@ -1,0 +1,4 @@
+# test
+ln -s /media/manu/intem/sort/2DMOT2015 mot_benchmark
+python sort.py
+python sort.py --display
